@@ -1,5 +1,5 @@
 
-let word = "Jairton";
+let word = "jairton";
 
 let correctLetters = [];
 for (let i = 0; i < word.length; i++) {
